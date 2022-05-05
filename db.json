@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 8
+    },
+    {
+      "name": "frog",
+      "image": "https://images.unsplash.com/photo-1502780402662-acc01c084a25?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+      "price": "200",
+      "id": 9
+    },
+    {
+      "name": "second frog!!",
+      "image": "https://cdn.britannica.com/84/206384-050-00698723/Javan-gliding-tree-frog.jpg",
+      "price": "420.01",
+      "id": 10
     }
   ]
 }
